@@ -65,3 +65,19 @@ button{
 .btn:hover{
     transform:scale(1.05);
 }
+.card{
+    display:inline-block;
+    padding:15px 25px;
+    margin:10px;
+    background:#1e293b;
+    color:white;
+    border-radius:30px;
+    font-weight:bold;
+    border:2px solid #7c3aed;
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    background:#7c3aed;
+}
