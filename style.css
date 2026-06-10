@@ -14,11 +14,7 @@ nav{
 
 .hero{
     background: linear-gradient(135deg,#0f172a,#4f46e5,#7c3aed);
-    min-height: 100vh;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    align-items:center;
+    padding:80px 20px;
     text-align:center;
 }
 
@@ -160,4 +156,22 @@ footer{
 
 .project:hover{
     transform:translateY(-10px);
+}
+.hero h1{
+    font-size:48px;
+    margin-top:20px;
+}
+
+.hero p{
+    font-size:20px;
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 50px;
+}
+
+.nav-links a{
+    font-size:18px;
 }
