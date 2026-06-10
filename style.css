@@ -98,12 +98,6 @@ button{
     border-radius:15px;
     box-shadow:0 4px 10px rgba(0,0,0,0.2);
 }
-#about{
-    background:white;
-    border-radius:15px;
-    margin:20px;
-    box-shadow:0 4px 10px rgba(0,0,0,0.15);
-}
 footer{
     background:#111827;
     color:white;
