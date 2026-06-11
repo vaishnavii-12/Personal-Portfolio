@@ -48,11 +48,16 @@ transition:0.3s;
     margin:20px 0;
 }
 
-.hero p{
-    font-size:18px;
-    max-width:700px;
+#about p{
+    font-size:22px;
+    line-height:1.8;
+    max-width:1000px;
+    color:white;
 }
-
+#about h2{
+    font-size:40px;
+    margin-bottom:25px;
+}
 .profile-img{
 width:220px;
 height:220px;
@@ -104,12 +109,12 @@ margin-bottom:25px;
 
 /* About */
 #about{
-background:#1e293b;
-border-radius:20px;
-padding:30px;
-box-shadow:0 10px 20px rgba(0,0,0,0.2);
+    background:#1e293b;
+    padding:40px;
+    border-radius:20px;
+    margin-top:30px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.3);
 }
-
 /* Skills */
 .card{
 display:inline-block;
