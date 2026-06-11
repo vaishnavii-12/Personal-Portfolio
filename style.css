@@ -244,3 +244,26 @@ nav{
     border-radius:20px;
     max-width:700px;
 }
+.education-card{
+    background:#1e293b;
+    padding:35px;
+    border-radius:20px;
+    max-width:700px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.3);
+    border-left:5px solid #7c3aed;
+}
+
+.education-card h2{
+    font-size:36px;
+    margin-bottom:20px;
+}
+
+.education-card h3{
+    font-size:24px;
+    margin-bottom:15px;
+}
+
+.education-card p{
+    font-size:18px;
+    line-height:1.8;
+}
