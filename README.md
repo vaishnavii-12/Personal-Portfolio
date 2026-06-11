@@ -15,12 +15,13 @@
 ![Year](https://img.shields.io/badge/Year-Second%20Year-orange?style=for-the-badge)
 
 ---
+About | Skills | Projects | Education | Contact
 
 A modern and responsive personal portfolio website showcasing my skills, projects, education, and journey as an aspiring software developer.
 
 
 
-About | Skills | Projects | Education | Contact
+
 
 ## 👩‍💻 About Me
 
