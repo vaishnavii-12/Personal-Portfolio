@@ -17,6 +17,7 @@
 ---
 
 A modern and responsive personal portfolio website showcasing my skills, projects, education, and journey as an aspiring software developer.
+About | Skills | Projects | Education | Contact
 
 ## 👩‍💻 About Me
 
