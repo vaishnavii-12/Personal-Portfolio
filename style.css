@@ -39,9 +39,18 @@ transition:0.3s;
 
 /* Hero Section */
 .hero{
-background:linear-gradient(135deg,#0f172a,#4f46e5,#7c3aed);
-text-align:center;
-padding:80px 20px;
+    background:linear-gradient(135deg,#0f172a,#4f46e5,#7c3aed);
+    padding:80px 50px;
+    text-align:left;
+}
+.hero h1{
+    font-size:48px;
+    margin:20px 0;
+}
+
+.hero p{
+    font-size:18px;
+    max-width:700px;
 }
 
 .profile-img{
@@ -86,7 +95,7 @@ transform:translateY(-3px);
 
 /* Sections */
 section{
-padding:60px 10%;
+    padding:50px;
 }
 
 section h2{
@@ -144,4 +153,8 @@ background:#111827;
 text-align:center;
 padding:20px;
 margin-top:30px;
+}
+#about p{
+    max-width:900px;
+    line-height:1.8;
 }
