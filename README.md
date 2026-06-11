@@ -121,7 +121,7 @@ Add a screenshot of your portfolio:
 
 ## 📬 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: vaishnavibotare5@gmail.com
 
 💻 GitHub:  
 https://github.com/vaishnavii-12
